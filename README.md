@@ -17,4 +17,4 @@
     > Subversion/
     > Perforce/
     > Team Foundation Version Control/
-    > Mercurial/
+    > Mercurial
